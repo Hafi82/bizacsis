@@ -1,0 +1,25 @@
+# Local environment file (not committed to Git)
+.env
+
+# Node modules
+node_modules/
+
+# Database files (SQLite - not used in production)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
